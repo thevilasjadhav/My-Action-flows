@@ -4,7 +4,7 @@ on:
   push:
     branches: [ Main ]
     
-  Jobs:
+  jobs:
     Support:
       runs-on: ubuntu-latest
 
