@@ -1,0 +1,14 @@
+Name: Vilas
+
+on:
+  push:
+    branches: [ Main ]
+
+Jobs:
+  Support:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Greetings
+        run: echo "Jai Shree Ram"
+        
