@@ -1,10 +1,10 @@
-Name: Vilas
+name: Vilas
 
 on:
   push:
     branches: [ Main ]
     
-  jobs:
+jobs:
     Support:
       runs-on: ubuntu-latest
 
