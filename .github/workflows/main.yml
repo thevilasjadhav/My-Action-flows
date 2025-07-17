@@ -2,7 +2,7 @@ name: Vilas
 
 on:
   push:
-    branches: [ Main ]
+    branches: [ main ]
     
 jobs:
     demo:
