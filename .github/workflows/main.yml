@@ -5,7 +5,7 @@ on:
     branches: [ Main ]
     
 jobs:
-    Support:
+    demo:
       runs-on: ubuntu-latest
 
       steps:
